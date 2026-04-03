@@ -1,0 +1,11 @@
+{
+  "name": "one",
+  "version": "1.0.0",
+  "description": "practice purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "nothing, express, lol"
+  },
+  "author": "nitinnsssingh",
+  "license": "ISC"
+}
