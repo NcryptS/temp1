@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "practice purposes",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "nothing, express, lol"
+    "dev": "nodemon src/index.js"
   },
   "author": "nitinnsssingh",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
 }
